@@ -49,4 +49,4 @@ The dataset contains coffee shop sales records including product details, order 
 This project demonstrates strong foundational skills in data analysis and dashboard creation using Excel. It helps businesses make data-driven decisions.
 
 ## 📌 Author
-**Shivi Roonak**
+**Shiwangi chaurasiya**
